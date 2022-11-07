@@ -1,0 +1,11 @@
+{
+  "name": "@sup39/cra-template-plain",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "A plain React template for sup39",
+  "repository": "https://github.com/sup39/cra-template-plain",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
